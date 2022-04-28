@@ -1,0 +1,11 @@
+CWRU Dataset:
+https://engineering.case.edu/bearingdatacenter/download-data-file
+https://drive.google.com/file/d/18cxEO0-nYLx4c6K0g5SKiAaXVrAqofiu/view?usp=sharing
+
+MFPT Dataset:
+https://www.mfpt.org/fault-data-sets/
+https://drive.google.com/file/d/1fs3AP2So2GBV0pwrVKVm-soFs2FajZ7h/view?usp=sharing
+
+MIMII Dataset:
+https://zenodo.org/record/3384388#.YmpQw-1BxPY
+https://drive.google.com/file/d/1jhigRX6tHgmAM-WyTvGf9ka0SJDL9H2g/view?usp=sharing
