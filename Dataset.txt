@@ -9,3 +9,7 @@ https://drive.google.com/file/d/1fs3AP2So2GBV0pwrVKVm-soFs2FajZ7h/view?usp=shari
 MIMII Dataset:
 https://zenodo.org/record/3384388#.YmpQw-1BxPY
 https://drive.google.com/file/d/1jhigRX6tHgmAM-WyTvGf9ka0SJDL9H2g/view?usp=sharing
+
+ToyADAMOS Dataset:
+https://zenodo.org/record/3351307
+https://drive.google.com/drive/folders/1CAEE2IIGAo-x9W3N_xGn9Z8vOeIfacZ3?usp=sharing
